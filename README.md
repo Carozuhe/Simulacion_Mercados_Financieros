@@ -104,3 +104,5 @@ Universidad Digital de Antioquia
 ## Observación final
 
 Este proyecto tiene fines académicos y busca demostrar la aplicación de los Modelos Ocultos de Markov en el análisis financiero, integrando simulación, probabilidad, estadística y toma de decisiones bajo incertidumbre.
+
+Link: https://colab.research.google.com/drive/1bW2uFezvaN8LGjX5xdjYjrgPRjmhDKxW?usp=sharing
